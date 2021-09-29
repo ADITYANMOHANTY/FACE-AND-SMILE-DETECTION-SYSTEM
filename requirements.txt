@@ -1,0 +1,9 @@
+numpy==1.15.4
+opencv-python==3.4.3.18
+
+Keep a smile on your face!!!!!!!!!!!!!!!!
+
+Steps to run the program:
+- Activate And Install OpenCV First.
+- Go to the face and smile detection file location using command prompt.
+- After that open default_face.py file using command prompt.

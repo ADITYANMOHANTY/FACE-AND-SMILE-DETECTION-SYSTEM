@@ -1,3 +1,1 @@
-# FACE-AND-SMILE-DETECTION-SYSTEM
-The aim of creating this program:
-- I want to make the coders smile while coding and working on this project.
+# Face And Smile Detection Of An Image using OpenCV
